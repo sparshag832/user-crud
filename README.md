@@ -25,6 +25,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+This is a NestJs Boiler Plate code with user login and url shortner(mini project)
+
 ## Project setup
 
 ```bash
